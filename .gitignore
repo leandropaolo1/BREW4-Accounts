@@ -1,0 +1,15 @@
+/_brewwer-4-VENV
+/brewwer-4-VENV
+core/__pycache__/__init__.cpython-310.pyc
+core/__pycache__/settings.cpython-310.pyc
+core/__pycache__/urls.cpython-310.pyc
+core/__pycache__/wsgi.cpython-310.pyc
+userbase/__pycache__/__init__.cpython-310.pyc
+userbase/__pycache__/apps.cpython-310.pyc
+userbase/__pycache__/forms.cpython-310.pyc
+userbase/__pycache__/models.cpython-310.pyc
+userbase/__pycache__/urls.cpython-310.pyc
+userbase/__pycache__/views.cpython-310.pyc
+userbase/migrations/__pycache__/__init__.cpython-310.pyc
+userbase/migrations/__pycache__/0001_initial.cpython-310.pyc
+userbase/migrations/__pycache__/0002_alter_publickeys_public_key.cpython-310.pyc
